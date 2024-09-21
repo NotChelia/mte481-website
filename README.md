@@ -2,7 +2,7 @@
 Temporary Website to track work being done on MTE481 Project
 
 # Group
-David Qiu, Jason Xue, Diego Johnson, Aryan Gosalia, G Beke
+David Qiu, Jason Xue, Diego Johnson, Aryan Gosalia, Mogbekeloluwa Adesiyun
 
 # Current Status
 
