@@ -44,6 +44,46 @@ Drafting Requirements with team
 ### Conclusions
 - Mapping about finalized, current solution proves to work, some additional work required to refactor to Ros2 Humble but overall Mapping is finalized and now efforts should be focused on integrating the scans to be used in Planning
 
+### Navigation and POI Identification Progress - Jason Xue
+
+#### Week 1
+- Project Setup
+- Subsystem Brainstorming
+
+#### Week 2
+- Research methods to detect survivors
+- Found some hardware like FLIR Leptons which were relatively cheap and can provide thermal imaging well enough to detect people
+- Found some other alternatives such as experiemental microphone array from chinese research paper
+
+#### Week 5
+- Created PDP slides for POI Identification
+
+#### Week 6
+- Looked into how to SLAM navigation algorithms
+
+#### Week 11
+- Decided on using 3D occupancy grid with A* based on inspiration from MTE544
+
+#### Week 12
+- Decided on OctoMap implementation for occupancy grid, custom 2D costmap calculation, A* and Trajectory Rollout method for navigation
+- Wrote slides for FDP on navigation
+
+### Conclusions
+- Navigation to be implemented in code
+- Thermal camera to purchase
+
+### Radio Communication + POI Identification Progress - Jason Xue
+
+#### Week 3
+- Research mesh radio systems to allow communication back to offboard compute server
+
+#### Week 4
+- Pivoted to using onboard computer for Mapping, removing requirement for offboard computer server
+- No longer any radio work from this point onwards
+
+### Conclusions
+- No longer relavant part of the project
+
 ### Firmware Progress -  Mogbekeloluwa Adesiyun
 
 #### Week 1
