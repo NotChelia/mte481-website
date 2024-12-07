@@ -43,3 +43,31 @@ Drafting Requirements with team
 
 ### Conclusions
 - Mapping about finalized, current solution proves to work, some additional work required to refactor to Ros2 Humble but overall Mapping is finalized and now efforts should be focused on integrating the scans to be used in Planning
+
+### Firmware Progress -  Mogbekeloluwa Adesiyun
+
+#### Week 1
+- Evaluation of effectiveness of STM32 microcontroller vs ESP32 microcontroller
+- Research Wifi capabilities of STM32 vs ESP32
+
+#### Week 2
+- Research on how to use PWM with motor encoders for ESP32
+- Research on how to get speed data from motor encoders
+
+#### Week 4
+- Review of datasheets for ICs for microcontroller
+
+#### Week 5
+- Summarizing current findings for PDP
+
+#### Week 8
+- Continuation of review of datasheets for ICs 
+
+#### Week 9
+- Currently working on firmware that interacts with electrical components and microcontroller
+
+#### Week 11 
+- More work on firmware that interacts with electrical components and microcontroller
+
+### Conclusions
+- Selected ESP32 as microcontroller for project.  Researched the most efficient way to use PWM in ESP32 and STM32 microcontrollers. Currently working on designing and implementing firmware to communicate with ICs and sensors using ESP32 microcontroller
