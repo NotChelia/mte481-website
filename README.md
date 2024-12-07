@@ -29,7 +29,7 @@ Group: Settled on the problem of search and rescue in partially damaged strucure
 * Diego:
   * Looked into motor specs and power requirements for various drone types
 * Aryan:
-  * 
+  * Researched possible frame and suspension designs for application
 
 #### Week 3 (Sept 23rd)
 Group: Narrowed down problem into need, problem statement and constraints and criteria
@@ -43,7 +43,8 @@ Group: Narrowed down problem into need, problem statement and constraints and cr
 * Diego:
   * Determined final constraints and criteria and defined metrics for them
 * Aryan:
-  * 
+  * Determined physical constraints for robot design
+  * Used developed constraints to sketch possible solutions based on research
 
 #### Week 4 (Sept 30th)
 Group: Found required patents and alternative solutions
@@ -57,7 +58,8 @@ Group: Found required patents and alternative solutions
 * Diego:
   * Started looking into possible chips to use for motor control and voltage regulation
 * Aryan:
-  * 
+  * Found three possible design solutions for robot, bogie rocker design seemed ideal from a preliminary glance
+  * Researched how others used the bogie rocker design and simplified it down to its basic components
 
 #### Week 5 (Oct 7th)
 Group: Used descision matricies to select the best solution based on our criteria and constraints
@@ -72,7 +74,8 @@ Group: Used descision matricies to select the best solution based on our criteri
 * Diego:
   * Decided on specs for planetary gearmotors with built in encoders to go with the selected bogie rocker design
 * Aryan:
-  * 
+  * Confirmed through decision matrix that bogie rocker is the ideal design
+  * Began creating basic mockup of design prototype
 
 #### Weeks 6 and 7 (Oct 21st)
 Group: Prepared for PDP
@@ -100,7 +103,8 @@ Group: Started working on detailed design
   * Created electrical system overview flowchart
   * Solidified each electrical subsytem and their requirements
 * Aryan:
-  * 
+  * Continued mockup design on SolidWorks, scaled and edited components to ensure criteria met
+  * Sourced core mechanical components
 
 #### Week 10 (Nov 11th)
 Group: Began verifying various subsytem design 
@@ -118,7 +122,8 @@ Group: Began verifying various subsytem design
   * Created schematic for electrical design
   * Made most final decisions for electrical component selection
 * Aryan:
-  * 
+  * Re-evaluated design, simplified components to minimize cost and fabrication complexity
+  * Incorporated final software/electrical componenents into design and performed constraints analysis 
 
 #### Weeks 11 and 12 (Nov 25th)
 Group: Completed most of the detailed design and FDP
@@ -128,11 +133,12 @@ Group: Completed most of the detailed design and FDP
   * Decided on OctoMap implementation for occupancy grid, custom 2D costmap calculation, A* and Trajectory Rollout method for navigation
   * Wrote slides for FDP on navigation
 * Mogbekeloluwa:
-  * Wokred on reformatting intro summary slides for FDP
+  * Worked on reformatting intro summary slides for FDP
 * Diego:
   * Finalized most schematic pages and made electrical FDP slides
 * Aryan:
   * Created Mechanical slides for FDP
+  * Created final Mechanical BOM
 
 #### Week 13 (Dec 2nd)
 Group: Completed Final Design Report
@@ -147,6 +153,3 @@ Group: Completed Final Design Report
   * Wrote the electrical section of the final report
 * Aryan:
   * Wrote the mechanical section of the report
-
-
-
