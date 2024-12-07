@@ -8,6 +8,8 @@ David Qiu, Jason Xue, Diego Johnson, Aryan Gosalia, Mogbekeloluwa Adesiyun
 
 Finished final design, comprised of bogie-rocker frame, FLIR Sensor, 3D lidar with Point-LIO, (Diego can you add something about the electrical deisgn here)
 
+# Subsystem Investigations
+
 ### Mapping Investigation Progress - David Qiu
 
 #### Week 1
